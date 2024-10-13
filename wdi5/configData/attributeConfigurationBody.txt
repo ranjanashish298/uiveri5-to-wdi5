@@ -1,0 +1,6 @@
+{"d": {"attributeName": "UIVERI5_LINE_ITEM_STRING", "description": "DO NOT USE THIS IN ANY MANUAL PROMOTION. TO BE USED ONLY IN AUTOMATED TESTS", "type_code": 0, "location_code": 0, "maxLength": 60 }}
+{"d": {"attributeName": "UIVERI5_TRANSACTION_STRING", "description": "DO NOT USE THIS IN ANY MANUAL PROMOTION. TO BE USED ONLY IN AUTOMATED TESTS", "type_code": 0, "location_code": 1, "maxLength": 60 }}
+{"d": {"attributeName": "UIVERI5_LINE_ITEM_LONG", "description": "DO NOT USE THIS IN ANY MANUAL PROMOTION. TO BE USED ONLY IN AUTOMATED TESTS", "type_code": 1, "location_code": 0 }}
+{"d": {"attributeName": "UIVERI5_TRANSACTION_LONG", "description": "DO NOT USE THIS IN ANY MANUAL PROMOTION. TO BE USED ONLY IN AUTOMATED TESTS", "type_code": 1, "location_code": 1 }}
+{"d": {"attributeName": "UIVERI5_LINE_ITEM_BOOLEAN", "description": "DO NOT USE THIS IN ANY MANUAL PROMOTION. TO BE USED ONLY IN AUTOMATED TESTS", "type_code": 2, "location_code": 0 }}    
+{"d": {"attributeName": "UIVERI5_JE_LONG_NEW", "description": "DO NOT USE THIS IN ANY MANUAL PROMOTION. TO BE USED ONLY IN AUTOMATED TESTS", "type_code": 1, "location_code": 1, "expressionType_code": "JE", "minValue": "-100", "maxValue": "100" }}

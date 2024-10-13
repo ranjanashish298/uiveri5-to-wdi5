@@ -1,0 +1,1 @@
+{"d": {"description": "Config for uiveri5 Tests", "validFrom": "/Date(1689664523)/", "defaultMasterDataSourceSystem": "QM7CLNT910", "enhancedUomEvaluationEnabled": true, "enhancedGeneralExclusionCriteriaEnabled": true   }}

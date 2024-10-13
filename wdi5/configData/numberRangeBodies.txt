@@ -1,0 +1,8 @@
+{"d":{"entityName": "MerchandiseSetNodes","startRange": "7654321", "endRange": "87654321"   }}
+{"d":{"entityName": "MixAndMatchPriceDerivationItems","startRange": "7654321", "endRange": "87654321"   }}
+{"d":{"entityName": "PriceDerivationRuleEligibilities","startRange": "7654321", "endRange": "87654321"   }}
+{"d":{"entityName": "PriceDerivationRules","startRange": "7654321", "endRange": "87654321"   }}
+{"d":{"entityName": "PromotionPriceDerivationRules","startRange": "7654321", "endRange": "87654321"   }}
+{"d":{"entityName": "Promotions","startRange": "7654321", "endRange": "87654321"   }}
+{"d":{"entityName": "AddBonusPriceDerivationItems","startRange": "1000000", "endRange": "1300000"   }}
+{"d":{"entityName": "TimeRestrictions","startRange": "1000000", "endRange": "1300000"   }}

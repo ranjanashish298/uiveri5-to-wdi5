@@ -1,0 +1,1 @@
+{"d": {"fieldId": "Customer", "paddingCharacter": "0", "totalSize": "10", "totalNumericSize": "10", "noLeadingInternalZeros": false }}
