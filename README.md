@@ -13,4 +13,4 @@ Think of WDI5 as combining the strengths of `UI5 Test API` and `Webdriver.IO` to
 **WDI5 = UI5 Test API + Webdriver.IO**
 
 ### Documentation
-For more detailed information and getting started guides, visit our [documentation](https://ui5-community.github.io).
+For more detailed information and getting started guides, visit the [documentation](https://ui5-community.github.io).
